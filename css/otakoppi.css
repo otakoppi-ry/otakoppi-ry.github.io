@@ -1,0 +1,123 @@
+li {
+  margin-left: 15px;
+}
+
+body {
+  font-size: 76%;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 1.3;
+  margin: 0 0;
+  text-align: center;
+  color: white;
+}
+
+#wrap {
+  border: 0px solid #999;
+  width: 953px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+header {
+  height: 152px;
+}
+
+#logo {
+  padding: 10px 0px 0px 30px;
+  float: left;
+}
+
+#title_logo {
+  padding: 45px 0px 0px 315px;
+}
+
+.box {
+  background-color: #be1d2c;
+  padding: 20px 0px 0px 20px;
+  border: 2px solid;
+  border-radius: 20px;
+}
+
+#content {
+  width: 675px;
+  float: left;
+  padding-right: 10px;
+}
+
+#sidebar {
+  width: 202px;
+  float: left;
+  margin-right: 10px;
+}
+
+#footer {
+  clear: both;
+}
+
+img {
+  border: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  color: #ffc20e;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #ffc20e;
+}
+
+h1 {
+  font-size: 1.7em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+h5 {
+  font-size: 1.1em;
+}
+
+h6 {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.nav_menu {
+  color: #333;
+  margin-bottom: 1em;
+  padding: 0;
+}
+
+#sidebar ul {
+  text-align: left;
+  list-style: url(/images/ball2.png);
+}
+
+.nav_menu li a {
+  display: block;
+  margin: 5px 0 10px 0;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+}
+
+.nav_menu li a:hover {
+  text-decoration: underline;
+  color: white;
+}
