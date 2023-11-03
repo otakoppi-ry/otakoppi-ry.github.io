@@ -2,9 +2,14 @@
   link: /
 - title: Pelaamaan
   link: /pelaamaan/
+- title: Liity jäseneksi
+  link: https://forms.gle/fkNqnzqBgU1nHqVH6
+  openInNewTab: true
 - title: Kalenteri
   link: /kalenteri/
 - title: Tilaa seuratuotteita
   link: /tilaa-seuratuotteita/
 - title: Yrityksille
   link: /yrityksille
+- title: Rekisteriseloste
+  link: /rekisteriseloste
