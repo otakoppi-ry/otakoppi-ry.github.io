@@ -3,6 +3,8 @@ layout: default
 title: Tilaa seuratuotteita
 permalink: /tilaa-seuratuotteita/
 ---
+<h1>Tilaa seuratuotteita</h1>
+
 <p><img alt="" height="85" src="/images/stadium.gif" width="662"></p>
 
 <p>Stadium on OtaKopin virallinen seuratuotetoimittaja! Voit selata mallistoa ja tehdä tilauksia <a href="https://www.stadium.fi/seurat/1888021" title="">OtaKopin seurasivuilta</a>. Mallistostamme löytyy esimerkiksi treenipaitoja, verryttelyhousut, huppari sekä pipo. Voit tilata tuotteita itsenäisesti milloin vain vaikka kotiovelle tai lähimpään toimituspisteeseen. OtaKopin logon lisäksi sinulla on mahdollisuus lisätä valinnaisena painatuksena omat nimikirjaimesi.</p>

@@ -4,6 +4,8 @@ title: Rekisteriseloste
 permalink: /rekisteriseloste/
 ---
 
+# Rekisteriseloste
+
 OtaKopin jäsenrekisterin tietosuojaseloste
 EU:n tietosuoja-asetuksen 2016/679 mukainen tietosuojaseloste.
 
