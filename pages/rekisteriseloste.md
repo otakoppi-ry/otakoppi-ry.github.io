@@ -18,8 +18,7 @@ PL69
 
 ### 2. Rekisteriasioita hoitava henkilö
 
-OtaKopin puheenjohtaja Topi Räty
-hallitus@otakoppi.fi
+OtaKopin puheenjohtaja Topi Räty (etunimi.sukunimi[at]hotmail.fi)
 
 ### 3. Rekisterin nimi
 
