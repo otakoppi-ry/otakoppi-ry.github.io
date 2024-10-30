@@ -6,12 +6,16 @@ permalink: /yhteystiedot/
 
 # Yhteystiedot
 
-OtaKopin toimijat saat parhaiten kiinni lähettämällä postia puheenjohtajalle:
+OtaKopin toimijat saat parhaiten kiinni lähettämällä postia hallitukselle:
 
+
+hallitus@otakoppi.fi
+
+
+tai puheenjohtajalle:
 
 Topi Räty
-
-[etunimi.sukunimi[at]hotmail.fi]
+puheenjohtaja@otakoppi.fi
 
 
 OtaKoppi löytyy myös Facebookista ja Instagramista
