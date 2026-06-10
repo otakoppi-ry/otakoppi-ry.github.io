@@ -33,6 +33,3 @@ Instan kautta kerrotaan viimeisimpiä kuulumisia ja tiedotetaan myös tulevista 
 ## Kenttä
 
 Maakuntasarjan ja aluesarjan pelipaikkana toimii Tuuliniityn hiekkatekonurmi Tapiolassa osoitteessa Tuulikuja 8, 02100 Espoo. Otaniemestä pääsee kentälle vaikkapa pyörällä, bussilla tai jopa metrolla. Bussin 550 pysäkki on aivan kentän kulmassa. Helsingistä saapuvia palvelee parhaiten metro ja Tapiolan metroasema, josta noin 500m kävelymatka kentälle.
-
-Talvisin treenataan Keran halleilla tai OtaHallilla.
-
