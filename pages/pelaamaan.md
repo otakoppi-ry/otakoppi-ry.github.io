@@ -16,7 +16,7 @@ naisten rajoilla.
 
 ## Joukkueet 2026
 * [Miesten maakuntasarja](https://www.pesistulokset.fi/seura/2026/254/joukkue/17795)
-* [Naisten aluesarja](https://www.pesistulokset.fi/seura/2026/254/joukkue/17644)
+* [Naisten maakuntasarja](https://www.pesistulokset.fi/seura/2026/254/joukkue/17644)
 
 Jos joukkueissamme pelaaminen kiinnostaa tai haluat muutenvaan tulla kokeilemaan pesistä treeneissä, laita meille yksityisviestiä Instagramissa tai sähköpostia hallitukselle!
 
