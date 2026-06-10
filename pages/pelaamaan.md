@@ -14,11 +14,9 @@ tarvitse hankkia, sillä OtaKoppi huolehtii räpylöistä, mailoista
 ja palloista. Kesäpesistä pelataan naisten pallolla ja
 naisten rajoilla.
 
-## Joukkueet 2024-25
-
-* [Miesten maakuntasarja](https://www.pesistulokset.fi/joukkue/otakoppi/9927)
-* [Naisten aluesarja](https://www.pesistulokset.fi/joukkue/otakoppi/10936)
-* [Etelän kuntopesis](https://www.pesistulokset.fi/joukkue/1/11902)
+## Joukkueet 2026
+* [Miesten maakuntasarja](https://www.pesistulokset.fi/seura/2026/254/joukkue/17795)
+* [Naisten aluesarja](https://www.pesistulokset.fi/seura/2026/254/joukkue/17644)
 
 Jos joukkueissamme pelaaminen kiinnostaa tai haluat muutenvaan tulla kokeilemaan pesistä treeneissä, laita meille yksityisviestiä Instagramissa tai sähköpostia hallitukselle!
 
